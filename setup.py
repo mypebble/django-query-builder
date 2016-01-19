@@ -18,7 +18,7 @@ def get_version():
 
 
 setup(
-    name='django-query-builder',
+    name='django-query-builder-pebble',
     version=get_version(),
     description='Build complex nested queries',
     long_description=open('README.rst').read(),
